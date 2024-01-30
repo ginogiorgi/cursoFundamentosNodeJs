@@ -1,7 +1,7 @@
 function hola(nombre, miCallback) {
   setTimeout(() => {
     console.log("Hola " + nombre);
-    miCallback();
+    miCallback(nombre);
   }, 1500);
 }
 function hablar(callbackHablar) {
