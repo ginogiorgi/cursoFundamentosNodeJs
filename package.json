@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/ginogiorgi/cursoFundamentosNodeJs#readme",
   "dependencies": {
+    "bcrypt": "^5.1.1",
     "is-even": "^1.0.0",
-    "is-odd": "^3.0.1"
+    "is-odd": "^3.0.1",
+    "sharp": "^0.33.2"
   }
 }
