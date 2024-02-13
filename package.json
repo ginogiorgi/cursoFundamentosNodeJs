@@ -1,1 +1,23 @@
-{}
+{
+  "name": "cursofundamentosnodejs",
+  "description": "Archivos utilizados en el Curso de Fundamentos de Node.js de Platzi. //  Files used in Platzi's Node.js Fundamentals Course.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ginogiorgi/cursoFundamentosNodeJs.git"
+  },
+  "author": "Gino Ruben Giorgi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ginogiorgi/cursoFundamentosNodeJs/issues"
+  },
+  "homepage": "https://github.com/ginogiorgi/cursoFundamentosNodeJs#readme",
+  "dependencies": {
+    "is-even": "^1.0.0",
+    "is-odd": "^3.0.1"
+  }
+}
