@@ -10,7 +10,8 @@ function router(request, response) {
       break;
     default:
       response.write("Error 404: No se lo que quieres");
-      response.end;
+      response.end();
+      break;
   }
 
   //   response.writeHead(201, { "Content-Type": "text/plain" });
