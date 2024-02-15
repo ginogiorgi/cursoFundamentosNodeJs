@@ -13,3 +13,5 @@ async function test() {
 }
 
 test();
+
+// Prblemas corriendo en WSL!!!!!!!
